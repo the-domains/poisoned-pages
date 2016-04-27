@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fan-Made Content for Shadow of the Demon Lord]]></title>
+        <description><![CDATA[Fan-Made Content for Shadow of the Demon Lord]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Apr 2016 21:09:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<p>Poisoned Pages is a fan repository of Shadow of the Demon Lord Material. By fans, for fans. Anyone is able to contribute! If you have something you want added or have an idea for something to add, contact me and we can get it up and running!</p>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">f76cbb4b-9312-4bea-9d6a-8ac0d2b5bd72</guid>
+            <pubDate>Wed, 27 Apr 2016 21:09:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'A few weeks ago, someone over on the Google+ Community asked for more novice adventures, so I decided to see if I could make one. Seeing as how on I recently talked about the 3-act story structure on my podcast, I decided to make an adventure using said structure.'
-datePublished: '2016-04-28T05:50:10.444Z'
-dateModified: '2016-04-28T05:49:58.124Z'
-title: 'Crasmere, the Village in Shadow'
+description: 'In brief, the story revolves around Crasmere, a village with a dark stain in its past, but a safe and prosperous present. Unfortunately, that present is built upon the blood sacrifices of the guilty and innocent alike.'
+datePublished: '2016-04-28T05:52:34.686Z'
+dateModified: '2016-04-28T05:52:21.090Z'
+title: Crasmere
 author: []
 sourcePath: _posts/2016-04-28-crasmere-the-village-in-shadow.md
 published: true
@@ -22,9 +22,11 @@ url: crasmere-the-village-in-shadow/index.html
 _type: Article
 
 ---
+# The Village in Shadow
+
 A few weeks ago, someone over on the Google+ Community asked for more novice adventures, so I decided to see if I could make one. Seeing as how on I recently talked about the 3-act story structure on [my podcast][0], I decided to make an adventure using said structure.
 
-## Crasmere, the Village in Shadow
+## Crasmere
 
 In brief, the story revolves around Crasmere, a village with a dark stain in its past, but a safe and prosperous present. Unfortunately, that present is built upon the blood sacrifices of the guilty and innocent alike.
 

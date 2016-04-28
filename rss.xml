@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fan-Made Content for Shadow of the Demon Lord]]></title>
+        <description><![CDATA[Fan-Made Content for Shadow of the Demon Lord]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Apr 2016 03:47:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Crasmere, the Village in Shadow]]></title>
+            <description><![CDATA[<article><h1>Crasmere, the Village in Shadow</h1><p>A few weeks ago, someone over on the Google+ Community asked for more novice adventures, so I decided to see if I could make one. Seeing as how on I recently talked about the 3-act story structure on my podcast, I decided to make an adventure using said structure.</p></article>]]></description>
+            <link>undefinedcrasmere-the-village-in-shadow/index.html</link>
+            <guid isPermaLink="false">f17679bb-5d18-4a10-bb27-063e5892c7c0</guid>
+            <pubDate>Thu, 28 Apr 2016 03:47:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

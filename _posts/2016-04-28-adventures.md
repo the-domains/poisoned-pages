@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Looking for more adventures? You've come to the right place."
-datePublished: '2016-04-28T04:40:51.934Z'
-dateModified: '2016-04-28T04:40:51.270Z'
+datePublished: '2016-04-28T04:49:17.234Z'
+dateModified: '2016-04-28T04:48:52.277Z'
 title: Adventures
+author: []
+sourcePath: _posts/2016-04-28-adventures.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
 starred: false
-sourcePath: _posts/2016-04-28-adventures.md
-published: true
 url: adventures/index.html
 _type: WebPage
 

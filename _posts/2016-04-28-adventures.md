@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Looking for more adventures? You've come to the right place."
-datePublished: '2016-04-28T04:50:20.122Z'
-dateModified: '2016-04-28T04:50:08.376Z'
+datePublished: '2016-04-28T05:41:09.498Z'
+dateModified: '2016-04-28T05:37:39.212Z'
 title: Adventures
 author: []
 sourcePath: _posts/2016-04-28-adventures.md

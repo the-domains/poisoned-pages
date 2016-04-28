@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Below you will find fan-created adventures for your Shadow of the Demon Lord game.
-datePublished: '2016-04-28T04:06:35.459Z'
-dateModified: '2016-04-28T04:05:19.325Z'
+datePublished: '2016-04-28T04:08:47.628Z'
+dateModified: '2016-04-28T04:06:43.295Z'
 title: Beginner Adventures
 author: []
 sourcePath: _posts/2016-04-28-beginner-adventures.md

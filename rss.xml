@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Fan-Made Content for Shadow of the Demon Lord]]></title>
         <description><![CDATA[Fan-Made Content for Shadow of the Demon Lord]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/poisoned-pages/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 03:47:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 03:50:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/poisoned-pages/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Crasmere, the Village in Shadow]]></title>
             <description><![CDATA[<article><h1>Crasmere, the Village in Shadow</h1><p>A few weeks ago, someone over on the Google+ Community asked for more novice adventures, so I decided to see if I could make one. Seeing as how on I recently talked about the 3-act story structure on my podcast, I decided to make an adventure using said structure.</p></article>]]></description>
-            <link>undefinedcrasmere-the-village-in-shadow/index.html</link>
+            <link>https://thegrid.ai/poisoned-pages/crasmere-the-village-in-shadow/index.html</link>
             <guid isPermaLink="false">f17679bb-5d18-4a10-bb27-063e5892c7c0</guid>
-            <pubDate>Thu, 28 Apr 2016 03:47:47 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2016 03:50:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

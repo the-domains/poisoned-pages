@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'GOD DAMNIT GRID STOP FUCKING THIS PAGE UP!'
-datePublished: '2016-04-28T04:25:23.618Z'
-dateModified: '2016-04-28T04:25:17.285Z'
+datePublished: '2016-04-28T04:26:57.014Z'
+dateModified: '2016-04-28T04:25:31.160Z'
 title: Adventures
 author: []
 sourcePath: _posts/2016-04-28-adventures.md

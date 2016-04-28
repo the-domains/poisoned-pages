@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'A few weeks ago, someone over on the Google+ Community asked for more novice adventures, so I decided to see if I could make one. Seeing as how on I recently talked about the 3-act story structure on my podcast, I decided to make an adventure using said structure.'
-datePublished: '2016-04-28T03:47:47.532Z'
-dateModified: '2016-04-28T03:25:52.620Z'
+datePublished: '2016-04-28T03:50:08.248Z'
+dateModified: '2016-04-28T03:47:54.349Z'
 title: 'Crasmere, the Village in Shadow'
 author: []
+sourcePath: _posts/2016-04-28-crasmere-the-village-in-shadow.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-crasmere-the-village-in-shadow.md
-published: true
 url: crasmere-the-village-in-shadow/index.html
 _type: Article
 

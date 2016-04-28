@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ———
-datePublished: '2016-04-28T04:29:44.112Z'
-dateModified: '2016-04-28T04:28:03.206Z'
+description: "Looking for more adventures? You've come to the right place."
+datePublished: '2016-04-28T04:36:39.958Z'
+dateModified: '2016-04-28T04:31:20.627Z'
 title: Adventures
 author: []
 sourcePath: _posts/2016-04-28-adventures.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 # Adventures
 
----------
+Looking for more adventures? You've come to the right place.
 
 ## Beginner Adventuers
 

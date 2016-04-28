@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "One of the most common questions asked by players is, \"how the heck does my novice character learn magic?\" In today's \"how do I…\" we will tackled that very question!"
-datePublished: '2016-04-28T12:51:38.976Z'
-dateModified: '2016-04-28T12:51:31.447Z'
+datePublished: '2016-04-28T13:16:11.898Z'
+dateModified: '2016-04-28T13:15:58.825Z'
 title: How Do I…Magic?
 author: []
 sourcePath: _posts/2016-04-28-how-do-imagic.md
@@ -31,7 +31,7 @@ One of the most common questions asked by players is, "_how the heck does my nov
 Daniel, a pillar of the SotDL community, made these amazing infographics to better teach how the three magic-capable novice paths---magician, priest, and rogue---learn magic.
 
 ## Magician
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dae7141f-8124-497c-98ed-efde383f6138.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3dd8435-7e60-4645-a44e-66911e27c199.jpg)
 
 ## Priest
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/733b09a4-f756-4385-8270-c9fd64a503bd.jpg)

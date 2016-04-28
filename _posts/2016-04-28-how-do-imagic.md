@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "One of the most common questions asked by players is, \"how the heck does my novice character learn magic?\" In today's \"how do I…\" we will tackled that very question!"
-datePublished: '2016-04-28T13:16:11.898Z'
-dateModified: '2016-04-28T13:15:58.825Z'
+datePublished: '2016-04-28T13:34:44.354Z'
+dateModified: '2016-04-28T13:17:01.397Z'
 title: How Do I…Magic?
 author: []
 sourcePath: _posts/2016-04-28-how-do-imagic.md

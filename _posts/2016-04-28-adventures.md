@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Beginner Adventuers
-datePublished: '2016-04-28T04:21:39.807Z'
-dateModified: '2016-04-28T04:20:48.964Z'
+datePublished: '2016-04-28T04:23:08.830Z'
+dateModified: '2016-04-28T04:21:46.916Z'
 title: Adventures
 author: []
 sourcePath: _posts/2016-04-28-adventures.md

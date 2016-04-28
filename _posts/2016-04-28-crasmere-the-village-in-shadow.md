@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'In brief, the story revolves around Crasmere, a village with a dark stain in its past, but a safe and prosperous present. Unfortunately, that present is built upon the blood sacrifices of the guilty and innocent alike.'
-datePublished: '2016-04-28T05:52:34.686Z'
-dateModified: '2016-04-28T05:52:21.090Z'
+datePublished: '2016-04-28T12:37:47.352Z'
+dateModified: '2016-04-28T05:55:19.544Z'
 title: Crasmere
 author: []
 sourcePath: _posts/2016-04-28-crasmere-the-village-in-shadow.md

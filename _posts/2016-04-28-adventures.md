@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'GOD DAMNIT GRID STOP FUCKING THIS PAGE UP!'
-datePublished: '2016-04-28T04:26:57.014Z'
-dateModified: '2016-04-28T04:25:31.160Z'
+description: ———
+datePublished: '2016-04-28T04:29:44.112Z'
+dateModified: '2016-04-28T04:28:03.206Z'
 title: Adventures
 author: []
 sourcePath: _posts/2016-04-28-adventures.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 # Adventures
 
-GOD DAMNIT GRID STOP FUCKING THIS PAGE UP!
+---------
 
 ## Beginner Adventuers
 
